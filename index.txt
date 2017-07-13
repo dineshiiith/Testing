@@ -1,6 +1,6 @@
 #This is version 1.1
 
-
+Done with the bug
 Hello this is just for testing 
 
 git clone	//to clone the project
@@ -14,4 +14,4 @@ this is edited in master
 Hello this is in version 2.0
 this is in version 3.0
 this is again in version 3.0
-
+thank u
