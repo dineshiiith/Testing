@@ -3,3 +3,4 @@ Hello this is just for testing
 git clone	//to clone the project
 git status	//shows difference between our offline repo and github
 git add "filename1"  "filename2"	//add any  new files by name
+Adding just a line
