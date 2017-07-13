@@ -10,3 +10,4 @@ Adding just a line
 Adding Another line
 VERSION 1.1 THIS IS A NEW ADD
 hello
+this is edited in master 
